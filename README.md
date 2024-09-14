@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<img src=https://github.com/ViPeRViTeK/ViPeRViTeK/blob/main/IMG_20170906_134410.jpg>
 **ViPeRViTeK/ViPeRViTeK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
